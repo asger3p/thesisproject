@@ -1,0 +1,35 @@
+questionName;variableName;questionType;subType;questionText;choiceValue;choiceText
+s_1;s_1;Closed;Single;"I understand what the system should do. ";;
+email;email;Open;String;"E-mail";;
+statoverall;statoverall_1;Closed;Multiple;"Overall Status";1;"New"
+statoverall;statoverall_2;Closed;Multiple;"Overall Status";2;"Distributed"
+statoverall;statoverall_3;Closed;Multiple;"Overall Status";3;"Partially Complete"
+statoverall;statoverall_4;Closed;Multiple;"Overall Status";4;"Complete"
+statoverall;statoverall_5;Closed;Multiple;"Overall Status";5;"Rejected"
+s_10;s_10;Closed;Single;"What is your age in years?";;
+s_11;s_11;Closed;Single;"What best describes your living situation?";;
+s_12;s_12;Closed;Single;"How concerned are you about home security?";;
+s_13;s_13;Closed;Single;"Do you have a home security system?";;
+s_14;s_14;Closed;Single;"How familiar were you with silent alarm functionality in home security systems before this test?";;
+s_2;s_2;Closed;Single;"The system helps me achieve my goals.";;
+s_3;s_3;Closed;Single;"I understand the limitations of the system.";;
+s_4;s_4;Closed;Single;"I understand the capabilities of the system.";;
+s_5;s_5;Closed;Single;"The system performs consistently.";;
+s_6;s_6;Closed;Single;"The system performs the way it should.";;
+s_7;s_7;Closed;Single;"I feel comfortable relying on the information provided by the system.";;
+s_8;s_8;Closed;Single;"I understand how the system executes tasks.";;
+s_9;s_9;Closed;Single;"I am rarely surprised by how the system responds.";;
+s_17;s_17;Closed;Single;"If faced with a real threat, how confident are you that you would use the silent alarm functionality? ";;
+s_15;s_15;Open;String;"Do you have any final thoughts about the usability of the system?";;
+s_18;s_18;Open;String;"Do you have any concerns about the security of the system?";;
+s_16;s_16;Open;String;"Want to tell us more? You're welcome to leave your email below.";;
+id;id;Open;String;"id";;
+s_35;s_35;Open;String;"What's your country of residence?";;
+s_30;s_30;Open;Double;"Choose from understandable (1) to not understandable (7)";;
+s_31;s_31;Open;Double;"Choose from difficult to learn (1) to easy to learn (7)";;
+s_32;s_32;Open;Double;"Choose from complicated (1) to easy (7)";;
+s_33;s_33;Open;Double;"Choose from confusing (1) to clear (7)";;
+s_21;s_21;Open;Double;"Choose from unpredictable (1) to predictable (7)";;
+s_34;s_34;Open;Double;"Choose from obstructive (1) to supportive (7)";;
+s_23;s_23;Open;Double;"Choose from not secure (1) to secure (7)";;
+s_26;s_26;Open;Double;"Choose from does not meet expectations (1) to meets expectations (7)";;

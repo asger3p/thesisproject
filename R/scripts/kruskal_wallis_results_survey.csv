@@ -1,0 +1,6 @@
+Variable,Test,Test statistic,p-value,Effect size (ε²)
+perspicuity,Kruskal-Wallis,H(2) = 6.779,.034,0.066
+dependability,Kruskal-Wallis,H(2) = 4.875,.087,0.048
+understandability,Kruskal-Wallis,H(2) = 4.473,.107,0.044
+performance,Kruskal-Wallis,H(2) = 4.048,.132,0.040
+s_17,Kruskal-Wallis,H(2) = 0.121,.941,0.001
